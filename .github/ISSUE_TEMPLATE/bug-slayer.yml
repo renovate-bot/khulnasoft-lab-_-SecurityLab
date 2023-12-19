@@ -32,7 +32,7 @@ body:
       label: All For One submission
       description: Link to the All For One submission with your CodeQL query
       placeholder: |
-        ex. https://github.com/github/securitylab/issues/nnn
+        ex. https://github.com/khulnasoft-lab/securitylab/issues/nnn
     validations:
       required: true
   - type: textarea

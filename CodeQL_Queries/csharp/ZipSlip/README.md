@@ -2,7 +2,7 @@
 
 ## Snapshot
 
-Use [this snapshot](https://github.com/github/securitylab/releases/download/powershell-codeql-database/PowerShell_PowerShell_csharp-srcVersion_450d884668ca477c6581ce597958f021fac30bff-dist_odasa-lgtm-2018-09-11-e5cbe16-linux64.zip)
+Use [this snapshot](https://github.com/khulnasoft-lab/securitylab/releases/download/powershell-codeql-database/PowerShell_PowerShell_csharp-srcVersion_450d884668ca477c6581ce597958f021fac30bff-dist_odasa-lgtm-2018-09-11-e5cbe16-linux64.zip)
 of PowerShell.
 
 ## Introduction
